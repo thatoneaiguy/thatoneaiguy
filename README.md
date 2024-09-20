@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://modrinth.com/organization/koil](https://modrinth.com/organization/koil)
 
-- ❤️Pronouns and general info at [https://en.pronouns.page/@e.everest](pronouns.page)
+- ❤️Pronouns and general info on [my pronouns.page](https://en.pronouns.page/@e.everest)
 
 - 💬 Ask me about **Shaders, visuals, and anything pretty**
 

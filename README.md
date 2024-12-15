@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm everest!</h1>
 <h3 align="center">Passionate Minecraft Modder and Java developer with an interest in VFX</h3>
 
-- 🔭 I’m currently working on [Rosel](https://github.com/thatoneaiguy/rosel), a combat mod based around combos, and [astray archipelago](https://github.com/thatoneaiguy/astray), a survival friendly rougelike in minecraft, inspired by risk of rain 2 ans dead cells
+- 🔭 I’m currently working on [Discharged ( previously known as Rosel )](https://github.com/thatoneaiguy/rosel), a combat mod based around combos, and [astray archipelago](https://github.com/thatoneaiguy/astray), a survival friendly rougelike in minecraft, inspired by risk of rain 2 ans dead cells
 
 - 🌱 I’m currently learning **GLSL**
 

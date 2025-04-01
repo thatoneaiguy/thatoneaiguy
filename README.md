@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm everest!</h1>
 <h3 align="center">Passionate Minecraft Modder and Java developer with an interest in VFX</h3>
 
-- 🔭 I’m currently working on [Discharged ( previously known as Rosel )](https://github.com/thatoneaiguy/rosel), a combat mod based around combos, and [astray archipelago](https://github.com/thatoneaiguy/astray), a survival friendly rougelike in minecraft, inspired by Risk of Rain 2 ans Dead Cells
+- 🔭 I’m currently working on [Discharged ( previously known as Rosel )](https://github.com/thatoneaiguy/rosel), a combat mod based around combos, and [astray archipelago](https://github.com/thatoneaiguy/astray), a survival friendly rougelike in minecraft, inspired by Risk of Rain 2 and Dead Cells
 
 - 🌱 I’m currently learning **GLSL**
 
-- 👨‍💻 All of my public projects are available at [https://modrinth.com/organization/koil](https://modrinth.com/organization/koil)
+- 👨‍💻 All of my public projects are available at [https://modrinth.com/organization/koil](https://modrinth.com/organization/aconite-studios)
 
 - ❤️Pronouns and general info on [my pronouns.page](https://en.pronouns.page/@e.everest)
 
